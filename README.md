@@ -1,6 +1,5 @@
-#	Pagina Inicial do Instagram
+#	Desenvolvimento de Projetos HTML,CSS,JS
 
-​	Construir a pagina inicial do instagram
 
 
 
